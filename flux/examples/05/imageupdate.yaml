@@ -21,5 +21,5 @@ spec:
     push:
       branch: main
   update:
-    path: "kubernetes/flux/examples/05/"
+    path: "flux/examples/05/"
     strategy: Setters
